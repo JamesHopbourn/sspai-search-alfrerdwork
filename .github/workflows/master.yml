@@ -18,3 +18,4 @@ jobs:
         with:
           artifacts: "SSPAI-Search.alfredworkflow"
           token: ${{ secrets.TOKEN }}
+
